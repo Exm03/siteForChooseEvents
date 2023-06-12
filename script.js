@@ -48,7 +48,7 @@ function checkEats(eventChange) {
             section.innerHTML = ` <h2 >Выбор места для поездки за город. <br>Можно выбрать только что-то одно</br></h2>
             <article class="article palce-art">
                 <button class='glowing-btn bat' id= 'Озеро Свитязь'><span class='glowing-txt'id= 'Озеро Свитязь'>Озе<span class='faulty-letter'id= 'Озеро Свитязь'>ро св</span>итязь</button>
-                <button class='glowing-btn bat' id= 'Браславские озера'><span class='glowing-txt'id= 'Браславские озера'>Брас<span class='faulty-letterid= 'Браславские озера''>лавск</span>ие оз<span class='faulty-letter'id= 'Браславские озера'>ера</span></button>
+                <button class='glowing-btn bat' id= 'Браславские озера'><span class='glowing-txt'id= 'Браславские озера'>Брас<span class='faulty-letter' id= 'Браславские озера'>лавск</span>ие оз<span class='faulty-letter'id= 'Браславские озера'>ера</span></button>
                 <button class='glowing-btn bat' id= 'Нарач'><span class='glowing-txt ' id= 'Нарач'>На<span class='faulty-letter'  id= 'Нарач'>ро</span>ч</button>
                 <button class='glowing-btn bat' id= 'Витебск'><span class='glowing-txt'  id= 'Витебск'>Вит<span class='faulty-letter' id= 'Витебск'>еб</span>ск</button>
                 <button class='glowing-btn bat' id= 'Гродно'><span class='glowing-txt' id= 'Гродно'>Гр<span class='faulty-letter' id= 'Гродно'>од</span>н<span class="faulty-letter" id= 'Гродно'>о</span></button>
